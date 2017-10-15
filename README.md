@@ -2,13 +2,13 @@
 
 Installation instructions:
 1. Install NPM and Node.JS
-2. Run `git clone https://github.com/IntelliFinder/http-testing.git`
-3. Run  `cd http-testing`.
+2. Run `git clone https://github.com/IntelliFinder/viz-tcwd.git`
+3. Run  `cd viz-tcwd`.
 4. Run `npm install` on both the client and server directories. (Run  1.`cd client` 2.`npm install` and Run 1.`cd ..` 2.`cd server` 2.`npm install`)
 ## Running  the server
 5. Run `node server.js`. You should see the JSON object on the command prompt if it works.
 ## Running the client
-6. Run `ng serve` on a separate command prompt windo under the `http-testing\client` directory.(Might need to do `npm install`) Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+6. Run `ng serve` on a separate command prompt windo under the `viz-tcwd\client` directory.(Might need to do `npm install`) Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
 ### Random information about Angular:
