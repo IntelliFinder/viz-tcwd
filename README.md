@@ -8,7 +8,7 @@ Installation instructions:
 ## Running  the server
 5. Run `node server.js`. You should see the JSON object on the command prompt if it works.
 ## Running the client
-6. Run `ng serve` on a separate command prompt windo under the `viz-tcwd\client` directory.(Might need to do `npm install`) Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+6. Run `ng serve` on a separate command prompt window under the `viz-tcwd\client` directory.(Might need to do `npm install`) Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 
 ### Random information about Angular:
