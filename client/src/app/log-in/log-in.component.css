@@ -1,0 +1,13 @@
+.example-card {
+  width: 400px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 1em;
+}
+.header{
+  text-align: center;
+  position: relative;
+}
+.example-form{
+  padding-top: 1em;
+}
